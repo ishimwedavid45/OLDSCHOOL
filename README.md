@@ -1,9 +1,8 @@
 # Thequeywizards
 # SQL Window Functions Exploration
 
-Team Members:
-- ishimwe honore 26578
-- shema ken 26503
+Team Member:
+-ISHIMWE DAVID 26426
 
 ## Project Overview
 This project explores SQL Window Functions through practical examples. Window functions allow for complex analytical queries that would otherwise require multiple self-joins or subqueries. These functions perform calculations across a set of rows related to the current row, providing powerful analytical capabilities.
